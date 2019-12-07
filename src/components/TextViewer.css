@@ -1,0 +1,23 @@
+.message-left {
+    max-width: 20rem;
+    margin: 0.1rem auto 0.1rem 0.5rem;
+    left:0;
+    background-color: #FFFFFF;
+    border: 0.1rem solid #CCCCCC;
+    border-radius: 1rem;
+    padding: 0.5rem 1rem;
+}
+.message-right {
+    max-width: 20rem;
+    right: 0;
+    margin: 0.1rem 0.5rem 0.1rem auto;
+    background-color: #BBFFBB;
+    border: 0.1rem solid #CCCCCC;
+    border-radius: 1rem;
+    padding: 0.5rem 1rem;
+}
+
+.text-container {
+    height: 100%;
+    overflow-y: scroll;
+}
